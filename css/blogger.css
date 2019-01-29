@@ -14,7 +14,6 @@
 	a{
 		text-decoration: none;
 		color: black;
-		margin-right: 30px;
 		font-size: 16px;
 	}
 	a:hover{
@@ -52,7 +51,6 @@
 		height: 100%;
 		float: left;
 		align-items: center;
-		
 	}
 	#photo{
 		height: 768px;
