@@ -48,6 +48,7 @@
 	}
 	nav{
 		display: flex;
+		background: #4172c1;
 		height: 100%;
 		float: left;
 		align-items: center;
