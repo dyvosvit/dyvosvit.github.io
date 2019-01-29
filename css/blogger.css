@@ -52,6 +52,9 @@
 		float: left;
 		align-items: center;
 	}
+	nav a{
+		padding: 15px 80px;	
+	}
 	#photo{
 		height: 768px;
 		width: 760px;
